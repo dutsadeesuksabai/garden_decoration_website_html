@@ -1,0 +1,46 @@
+.headcolor{
+    background-color: #5F8D4E;
+}
+.headcolor2{
+    background-color: #E5D9B6;
+}
+
+/* .dddd{
+    background-color: #A4BE7B;
+    background-color: #285430;
+} */
+.bodycolor1{
+    background-color: #A4BE7B;
+}
+.bodycolor2{
+    background-color: #285430;
+}
+.bodycolor3{
+    background-color: #E5D9B6;
+}
+.bgpic{
+    background-image: url("../image/garden1.jpg");
+    background-color: #E5D9B6;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-shadow: 2px 2px #E5D9B6;
+}
+
+.headstroke {
+    -webkit-text-stroke: 1px #285430;
+    color: white;
+    text-shadow:
+        3px 3px 0 #285430,
+      -1px -1px 0 #285430,  
+       1px -1px 0 #285430,
+       -1px 1px 0 #285430,
+        1px 1px 0 #285430;
+ }
+
+
+
+ 
